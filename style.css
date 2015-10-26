@@ -1,0 +1,26 @@
+.headlineImage {
+    position: relative;
+    width: 33%;
+}
+
+.headlineText {
+    position: absolute;
+    height: auto;
+    width: auto;
+}
+
+.mediaType {
+    top: 10px;
+    left: 10px;
+}
+
+.comment {
+    top: 10px;
+    right: 10px;
+    text-align: right;
+}
+
+.headlineTitle {
+    bottom: 20px;
+    text-align: center;
+}
