@@ -1,0 +1,15 @@
+.headline {
+    width: 100%;
+}
+
+.firstHeadline {
+    height: 250px;
+}
+
+.secondaryHeadline {
+    height: 125px;
+}
+
+.headlineTitle {
+    font-size: 18px;
+}
