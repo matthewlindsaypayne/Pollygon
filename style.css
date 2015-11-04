@@ -66,3 +66,28 @@ body {
 .headlineTitle:hover {
     color: magenta;
 }
+
+#navigationBar {
+    text-align: center;
+    font: Lato;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+
+#navigationBar span {
+    display: inline;
+    text-align: center;
+}
+
+#siteLogo {
+    border-left: 1px solid lightgray;
+}
+
+#searchBar {
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+
+#profilePic {
+    border-right: 1px solid lightgray;
+}
